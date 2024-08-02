@@ -9,9 +9,11 @@ The Custom Car Project: Creates an automobile class that will be used by a deale
 - a remove vehicle method
 - a update vehicle method
 - employs the use of Objects and classes
-```class Car:
+```
+class Car:
+    # constructor - for creating objects
     def __init__(self, make="", model="", color="", year=0, mileage=0):
-        # constructor - for creating objects # default values so I dont' have to worry about creating arguments later on
+        # default values so I dont' have to worry about creating arguments later on
         # private variables not to be used outside of the class
         self.__make = make
         self.__model = model
