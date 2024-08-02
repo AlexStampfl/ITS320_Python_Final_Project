@@ -20,5 +20,3 @@ class Car:
         self.__color = color
         self.__year = year
         self.__mileage = mileage
-
-
