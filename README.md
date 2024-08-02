@@ -1,2 +1,6 @@
-# ITS320_Python_Final_Project
-CSU Global ITS320-1 Basic Programming class final project in Python
+# ITS320 Python Custom Car Project
+### Description
+SU Global ITS320-1 Basic Programming class final project in Python.
+
+
+
